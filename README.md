@@ -1,4 +1,4 @@
-# React + Vite
+# Proyecto de React Ley 19.628
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
